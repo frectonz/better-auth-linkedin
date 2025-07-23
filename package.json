@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"@libsql/client": "^0.14.0",
-		"better-auth": "^1.2.12",
+		"better-auth": "https://pkg.pr.new/better-auth/better-auth@3566",
 		"drizzle-orm": "^0.40.0"
 	},
 	"pnpm": {
